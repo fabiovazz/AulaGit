@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-    background-color: rgb(214, 255, 251);
+    background-color: rgb(150, 214, 240);
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -23,12 +23,12 @@ h2 {
     color: green;
 }
 .intermediario{
-    color:rgb(172, 172, 2);
+    color:rgb(255, 255, 0);
 }
 .avançado{
     color:rgb(160, 76, 76);
     font-weight: bold;
 }
 .destaque{
-    background-color: rgb(230, 230, 180);
+    background-color: rgb(156, 189, 125);
 }
